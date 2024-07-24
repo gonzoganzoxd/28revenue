@@ -1,5 +1,5 @@
 import React from 'react';
-import './Consulta.css'; // Importamos los estilos CSS
+import './Consulta.css'; 
 
 const Consulta = () => {
   return (
